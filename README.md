@@ -1,4 +1,4 @@
-# Reto 1: Solucion Iterativa de Jacobi para la Ecuacion de Poisson
+# Solucion Iterativa de Jacobi para la Ecuacion de Poisson
 
 Este proyecto implementa la solucion numerica de la Ecuacion de Poisson en 2D utilizando el metodo iterativo de Jacobi. El objetivo principal es analizar y comparar el rendimiento de diferentes estrategias de optimizacion a nivel de memoria y modelos de ejecucion paralela en sistemas de Computacion de Alto Rendimiento (HPC).
 
